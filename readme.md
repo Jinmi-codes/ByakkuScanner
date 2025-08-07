@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://postimg.cc/kDytmnht" alt="ByakuScanner" width="600">
-</p>
-
+![ByakkuScanner](./Resources/banner.jpg)
 <h1 align="center">ByakuScanner</h1>
 
 <p align="center">
