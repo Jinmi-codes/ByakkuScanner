@@ -1,4 +1,4 @@
-![ByakkuScanner](./Resources/banner.jpg)
+![ByakuScanner](./Resources/banner.jpg)
 <h1 align="center">ByakuScanner</h1>
 
 <p align="center">
