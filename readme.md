@@ -12,8 +12,8 @@
 - Scans files in a target directory recursively
 - Detects sensitive information using regex (e.g., AWS keys, JWT tokens, private keys, etc.)
 - Generates a detailed report (plain text format)
-- Optional masking of secrets in report output
-- Optional ZIP compression of the final report
+- Optional masking of secrets in report output [🛠️]
+- Optional ZIP compression of the final report [🛠️]
 - Logs runtime duration of scan
 - Modular, readable Python codebase
 
